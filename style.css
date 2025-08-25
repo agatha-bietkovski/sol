@@ -25,4 +25,5 @@ img {
 
 .videos img:hover{
     opacity: 1.0;
+    border: 2px solid blue;
 }

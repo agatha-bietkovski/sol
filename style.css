@@ -9,3 +9,7 @@ background-color: rgb(165, 104, 221);
 img{
     height: 200px;
 }
+
+.videos{
+display:flex;
+}

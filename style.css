@@ -17,3 +17,9 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
+
+.videos img{
+    opacity: 0.5;
+    background-color: rgb(165, 104, 221);
+}
+

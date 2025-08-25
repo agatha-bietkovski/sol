@@ -1,16 +1,19 @@
 body {
     background-color: rgb(217, 154, 247);
- 
-}
-.roxinho{
-background-color: rgb(165, 104, 221);
 
 }
-img{
+
+.roxinho {
+    background-color: rgb(165, 104, 221);
+
+}
+
+img {
     height: 200px;
 }
 
-.videos{
-display:flex;
-overflow-x: auto;
+.videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }

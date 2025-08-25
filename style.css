@@ -23,3 +23,6 @@ img {
     background-color: rgb(165, 104, 221);
 }
 
+.videos img:hover{
+    opacity: 1.0;
+}
